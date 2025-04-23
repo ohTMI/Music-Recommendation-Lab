@@ -59,6 +59,4 @@ Within this project, we will take a look at a real dataset of songs from 1950 to
 
 - feelings: A score from 0 to 1 expressing how likely it is that this song’s lyrics have something to do with emotions, either positive or negative.
 
-- topic: The categorical label of lyrical content
-
 - age: A score from 0 to 1 expressing how “old” a song is from our perspective. 1 being the oldest, and 0 being the newest.
